@@ -62,6 +62,13 @@ Data Logging: Pandas & OpenPyXL (for updating attendance records in an Excel she
 
 ## Project Team
 
+### Jyotismita Nath 
+(joytismitanath2003@gmail.com)
+
+Linkedln - https://www.linkedin.com/in/jyotismita-nath-926541316/
+
+GitHub - https://github.com/Jyotismita-15
+
 ### Ritesh Mohanty 
 (riteshmohanty2003@gmail.com)
 
@@ -69,9 +76,3 @@ Linkedln - https://www.linkedin.com/in/ritesh-mohanty-65b614210/
 
 GitHub - https://github.com/Ritesh-22-M
 
-### Jyotismita Nath 
-(joytismitanath2003@gmail.com)
-
-Linkedln - https://www.linkedin.com/in/jyotismita-nath-926541316/
-
-GitHub - https://github.com/Jyotismita-15
